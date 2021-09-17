@@ -1,0 +1,5 @@
+---,PotionID,PotionName,PotionDescription,PotionImageReference
+Health1,1,Small Health Potion,Restores a minimal amount of health,None
+Health2,2,Health Potion,Restores a moderate amount of health,None
+Health3,3,Large Health Potion,Restores a large amount of health,None
+Health4,4,Massive Health Potion,Restores all the health,None
